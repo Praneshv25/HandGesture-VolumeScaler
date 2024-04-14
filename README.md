@@ -40,7 +40,7 @@ The project uses the following steps to control the volume:
 4. **Volume Adjustment**: The recognized gestures are mapped to volume control commands to raise or decrease the volume.
 
 ## Demo
-# Volume Up Gesture:
+### Volume Up Gesture:
 ![DEMO](https://github.com/Praneshv25/HandGesture-VolumeScaler/blob/b9c901da6554b1350e2ad7dff9986ff8b798e403/Images/Hand%20Gestures%20Shaka%202022%20May%20from%20Rawpixel.webp)
-# Volume Down Gesture:
+### Volume Down Gesture:
 ![Demo](https://github.com/Praneshv25/HandGesture-VolumeScaler/blob/915025e1ae0aa8eca61631a8187e775afd514c5c/Images/Hand%20Gestures%20Claw.webp)
